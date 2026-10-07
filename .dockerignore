@@ -1,0 +1,9 @@
+.venv/
+.venv_old/
+.git/
+.idea/
+notebooks/
+__pycache__/
+**/__pycache__/
+*.csv
+.DS_Store
