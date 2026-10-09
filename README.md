@@ -266,3 +266,8 @@ LinkedIn: "https://www.linkedin.com/in/mauricio-mazuera-a0a7a933b/"
 
 GitHub: "https://github.com/hmmazuera/UK_accident_prediction"
 
+## Live Demo
+
+[Open the application](http://13.42.73.85:8501)
+
+Hosted on AWS EC2 using Docker Compose.
